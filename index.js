@@ -5,8 +5,8 @@ const app = express();
 const hostile = require('hostile')
 
 var website = {
-	sitekey: '6Ld2sf4SAAAAAKSgzs0Q13IZhY02Pyo31S2jgOB5',
-	url: 'patrickhlauke.github.io',
+	sitekey: '6LexEI4UAAAAAIFtNZALcloZfEgHhB8rEUqC1LwV',
+	url: 'https://launcher.escapefromtarkov.com/launcher/login',
 	port: 3000
 }
 

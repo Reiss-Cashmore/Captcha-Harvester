@@ -1,0 +1,25 @@
+{
+  "name": "captcha-harvester2",
+  "version": "1.0.0",
+  "description": "Used to Harvest Google Re Captcha token's (can be used to automate http requests or so). I have made this quite simple for developers to easilly add this to their programs if needed.",
+  "main": "index.js",
+  "dependencies": {
+    "open": "^7.0.2",
+    "express": "^4.17.1",
+    "hostile": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrarKL/Captcha-Harvester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrarKL/Captcha-Harvester/issues"
+  },
+  "homepage": "https://github.com/AbrarKL/Captcha-Harvester#readme"
+}
